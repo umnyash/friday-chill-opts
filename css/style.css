@@ -38,6 +38,7 @@ body {
   background-repeat: no-repeat;
 }
 .link-apps {
+  margin-right: 30px;
   background-image: url("../img/appstore-icon.png");
 }
 .link-gp {
